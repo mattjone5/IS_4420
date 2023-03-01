@@ -1,0 +1,10 @@
+insert into Manager (managerID, userID, ssn, title) values (1, 31, 758597733, 'Office Assistant III');
+insert into Manager (managerID, userID, ssn, title) values (2, 32, 476880382, 'Web Designer III');
+insert into Manager (managerID, userID, ssn, title) values (3, 33, 629531455, 'Staff Accountant III');
+insert into Manager (managerID, userID, ssn, title) values (4, 34, 622506626, 'Office Assistant I');
+insert into Manager (managerID, userID, ssn, title) values (5, 35, 285644008, 'Clinical Specialist');
+insert into Manager (managerID, userID, ssn, title) values (6, 36, 665931836, 'Cost Accountant');
+insert into Manager (managerID, userID, ssn, title) values (7, 37, 496242063, 'VP Sales');
+insert into Manager (managerID, userID, ssn, title) values (8, 38, 291853877, 'Physical Therapy Assistant');
+insert into Manager (managerID, userID, ssn, title) values (9, 39, 758239633, 'Senior Cost Accountant');
+insert into Manager (managerID, userID, ssn, title) values (10, 40, 578510422, 'Data Coordiator');
